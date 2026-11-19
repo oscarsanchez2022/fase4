@@ -7,6 +7,7 @@ No usa base de datos todo se guarda en listas y solo se escribe un archivo de lo
 ## Integrantes
 
 - Oscar Humberto Sánchez Fuentes
+- Johan Stephen Ulloa León
 
 ## Como ejecutarlo?
 
