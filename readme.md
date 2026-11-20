@@ -9,7 +9,7 @@ No usa base de datos todo se guarda en listas y solo se escribe un archivo de lo
 - Oscar Humberto Sánchez Fuentes
 - Johan Stephen Ulloa León
 - María Alejandra Fonseca Sánchez
-
+- Rodrigo Antonio Doria Díaz
 ## Como ejecutarlo?
 
 Cuando el proyecto esté completo se ejecuta abriendo una terminal en la carpeta del proyecto y escribiendo:
